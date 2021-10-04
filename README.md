@@ -1,1 +1,2 @@
 # Core
+Welcome to Core, an advanced moderation bot for your Discord Server. As a server owner myself, I have always found that staff spend a lot of time focusing on punishing the bad users, and not enough time interacting with the community. Core aims to fix that issue with all of our features. From our advanced, all in-app customizability to set-up auto-mod, to our easy to use commands, Core is going to be a breeze to use. Continue reading down below to get more details on what we offer with Core.
